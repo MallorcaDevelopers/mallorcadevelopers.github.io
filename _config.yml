@@ -1,13 +1,13 @@
-title: Sevilla Developers User Group
-description: The landing page for Sevilla Developers User Group
-url: "http://sevilladevelopers.github.io"
+title: Mallorca Developers User Group
+description: The landing page for Mallorca Developers User Group
+url: "http://mallorcadevelopers.github.io"
 image: "http://sevilladevelopers.github.io/assets/img/sevilla-developers-icon.png"
 
 #SEO
 twitter:
-  username: SevillaDevelope
+  username: MallorcaDevelopers
 facebook:
- publisher: sevilladevelopers
+ publisher: mallocadevelopers
 
 # Google Analytics Code
 codega: UA-96791038-1
@@ -23,8 +23,3 @@ exclude: ['README.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'package.json', 'asse
 sass:
   sass_dir: assets/css
   style: :compressed
-
-
-
-
-

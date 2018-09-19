@@ -1,7 +1,7 @@
 {
-  "name": "sevilladevelopers",
+  "name": "mallorcadevelopers",
   "version": "1.0.0",
-  "homepage": "http://sevilladevelopers.github.io",
+  "homepage": "http://mallorcadevelopers.github.io",
   "scripts": {
     "start": "bundle exec jekyll serve",
     "install": "bundle install"
