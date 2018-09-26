@@ -9,8 +9,8 @@ twitter:
 facebook:
  publisher: sevilladevelopers
 
-# Google Analytics Code
-codega: UA-96791038-1
+# Google Analytics
+google_analytics: UA-126087263-1
 
 gems:
   - jekyll-seo-tag
@@ -23,8 +23,3 @@ exclude: ['README.md', 'CNAME', 'Gemfile', 'Gemfile.lock', 'package.json', 'asse
 sass:
   sass_dir: assets/css
   style: :compressed
-
-
-
-
-
