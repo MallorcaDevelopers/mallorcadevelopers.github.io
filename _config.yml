@@ -9,8 +9,8 @@ twitter:
 facebook:
  publisher: mallocadevelopers
 
-# Google Analytics Code
-codega: UA-126087263
+# Google Analytics
+google_analytics: UA-126087263-1
 
 gems:
   - jekyll-seo-tag
