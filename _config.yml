@@ -10,7 +10,7 @@ facebook:
  publisher: mallocadevelopers
 
 # Google Analytics Code
-codega: UA-96791038-1
+codega: UA-126087263
 
 gems:
   - jekyll-seo-tag
