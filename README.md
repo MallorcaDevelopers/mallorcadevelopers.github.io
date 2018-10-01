@@ -5,7 +5,7 @@ Este es el proyecto para Github.io del grupo [Mallorca Developers](https://www.f
 La página está en construcción. Si quieres colaborar estas son las actuales tareas:
 - [x] Forkear y modificar el [repositorio original de SevillaDevelopers](https://github.com/SevillaDevelopers/SevillaDevelopers.github.io)
 - [x] Crear grupo de facebook -> [Mallorca Developers](https://www.facebook.com/groups/MallorcaDevelopers)
-- [ ] Administrar y dinamizar el grupo de facebook [Mallorca Developers](https://www.facebook.com/groups/MallorcaDevelopers)
+- [x] Administrar y dinamizar el grupo de facebook [Mallorca Developers](https://www.facebook.com/groups/MallorcaDevelopers)
 - [ ] Crear logo y favicon
 - [ ] Limpiar imágenes del grupo original.
 - [ ] Incluir actividades en el calendario
