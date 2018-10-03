@@ -24,6 +24,7 @@ Es una herramienta para todas las comunidades que nos dota de una articulación 
     * [Agile & Lean Illes Balears](https://www.meetup.com/es-ES/Agile-Illes-Balears-Meetup/){:target="_blank"}
     * [MallorcaJS](https://www.meetup.com/es-ES/MallorcaJS/){:target="_blank"}
     * [MallorcaSEO](https://www.meetup.com/es-ES/MallorcaSEO/){:target="_blank"}
+    * [Makers Mallorca](https://www.meetup.com/es-ES/Meetup-de-Startups-de-tecnologia-en-Palma/){:target="_blank"}
     * Y muchos otros que están todavía por nacer.
 
     > Es obvio que en nuestro entorno se producen multitud de encuentros de diferentes formatos y objetivos y queremos ser un punto de encuentro colectivo para que todas y todos nos encontremos y conozcamos.
